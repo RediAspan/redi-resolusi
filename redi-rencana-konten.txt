@@ -4,6 +4,7 @@ RENCANA KONTEN REDI
  *ES6
  *Framework Javascript
   >Vue
+  >react
 -struktur data dasar
 -php framework
  >Laravel

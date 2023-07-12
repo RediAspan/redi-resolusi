@@ -3,6 +3,7 @@ RENCANA KONTEN REDI
 -javascript
  *ES6
  *Framework Javascript
+-struktur data dasar
 -php framework
 -interview
 -vlogs
